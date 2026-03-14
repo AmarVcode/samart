@@ -1,0 +1,5 @@
+Primary DB Server Ip = 10.0.0.186
+Primary DB Server Port = 3306
+DB Name = eugon
+DB User Id = root
+DB User Pwd = !@eugon#$pass
